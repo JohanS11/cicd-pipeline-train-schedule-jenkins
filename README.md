@@ -14,6 +14,6 @@ You can run the app with:
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
-Johan Sebastian Arias 2146195 -nuevo
+Johan Sebastian Arias 2146195
 
-dos
+PLS
